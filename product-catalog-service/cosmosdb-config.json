@@ -1,0 +1,6 @@
+{
+    "resourceGroup": "azure-service-broker",
+    "docDbAccountName": "generated-string",
+    "docDbName": "generated-string",
+    "location": "eastus"
+}

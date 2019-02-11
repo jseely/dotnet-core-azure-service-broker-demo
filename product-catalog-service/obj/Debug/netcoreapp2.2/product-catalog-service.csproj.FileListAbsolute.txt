@@ -1,0 +1,15 @@
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/obj/Debug/netcoreapp2.2/product-catalog-service.csprojAssemblyReference.cache
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/obj/Debug/netcoreapp2.2/product-catalog-service.csproj.CoreCompileInputs.cache
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/obj/Debug/netcoreapp2.2/product-catalog-service.RazorAssemblyInfo.cache
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/obj/Debug/netcoreapp2.2/product-catalog-service.RazorAssemblyInfo.cs
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/obj/Debug/netcoreapp2.2/product-catalog-service.AssemblyInfoInputs.cache
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/obj/Debug/netcoreapp2.2/product-catalog-service.AssemblyInfo.cs
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/obj/Debug/netcoreapp2.2/product-catalog-service.RazorTargetAssemblyInfo.cache
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/obj/Debug/netcoreapp2.2/product-catalog-service.dll
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/obj/Debug/netcoreapp2.2/product-catalog-service.pdb
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/bin/Debug/netcoreapp2.2/Microsoft.Azure.Documents.ServiceInterop.dll
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/bin/Debug/netcoreapp2.2/product-catalog-service.deps.json
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/bin/Debug/netcoreapp2.2/product-catalog-service.runtimeconfig.json
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/bin/Debug/netcoreapp2.2/product-catalog-service.runtimeconfig.dev.json
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/bin/Debug/netcoreapp2.2/product-catalog-service.dll
+/Users/justinseely/git/github.com/jseely/dotnet-core-azure-service-broker-demo/product-catalog-service/bin/Debug/netcoreapp2.2/product-catalog-service.pdb
