@@ -13,6 +13,6 @@ To deploy this application you must have access to a Pivotal Cloud Foundry insta
 1. Wait for the service to finish deploying, check `$> cf service mycosmosdb` for details
 1. Update the application name in the `manifest.json` and `$> cf push` the application
 1. Test out the api using the following `curl` commands
-..1. Get the list of products in the catalog, it should be an empty array at this point. `$> curl <your-route>/api/products` should return `[]`
-..1. Push a product to the catalog. `$> curl -H "Content-Type: application/json" -XPOST -d '{"id": "test", "name": "test", "description": "test"}' <your-route>/api/products`
-..1. Verify that your product has been added to the catalog. `$> curl <your-route>/api/products` should return an array containing your product.
+    1. Get the list of products in the catalog, it should be an empty array at this point. `$> curl <your-route>/api/products` should return `[]`
+    1. Push a product to the catalog. `$> curl -H "Content-Type: application/json" -XPOST -d '{"id": "test", "name": "test", "description": "test"}' <your-route>/api/products`
+    1. Verify that your product has been added to the catalog. `$> curl <your-route>/api/products` should return an array containing your product.
