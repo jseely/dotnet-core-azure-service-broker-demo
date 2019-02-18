@@ -1,6 +1,6 @@
 # Product Catalog Service (CosmosDB Service Broker Demo)
 
-This repository contains a Pivotal Cloud Foundry microservice demonstrating how to use Azure Service Broker to connect to a Cosmos DB database.
+This repository contains a Pivotal Cloud Foundry microservice demonstrating how to use Azure Service Broker to connect to a Cosmos DB.
 
 ## Deploying
 
