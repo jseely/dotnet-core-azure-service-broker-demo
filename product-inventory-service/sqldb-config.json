@@ -1,0 +1,25 @@
+{
+  "resourceGroup": "azure-service-broker",
+  "location": "eastus",
+  "sqlServerName": "generated-string",
+  "sqlServerParameters": {
+    "allowSqlServerFirewallRules": [
+      {
+        "ruleName": "all",
+        "startIpAddress": "0.0.0.0",
+        "endIpAddress": "255.255.255.255"
+      }
+    ],
+    "properties": {
+      "administratorLogin": "generated-string",
+      "administratorLoginPassword": "generated-string"
+    }
+  },
+  "sqldbName": "generated-string",
+  "transparentDataEncryption": true,
+  "sqldbParameters": {
+    "properties": {
+      "collation": "SQL_Latin1_General_CP1_CI_AS"
+    }
+  }
+}
