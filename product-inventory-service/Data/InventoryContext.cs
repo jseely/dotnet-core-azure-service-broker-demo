@@ -8,6 +8,12 @@ namespace product_inventory_service.Data
     {
         public InventoryContext(DbContextOptions<InventoryContext> options) : base(options) {}
 
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.Entity<InventoryRecord>()
+                .HasKey(r => r.ID);
+        }
+
         public DbSet<InventoryRecord> Inventory {get; set;}
     }
 }
