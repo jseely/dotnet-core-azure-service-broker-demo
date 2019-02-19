@@ -1,0 +1,6 @@
+{
+  "resourceGroup": "azure-service-broker",
+  "storageAccountName": "generated-string",
+  "location": "eastus",
+  "accountType": "Standard_LRS"
+}
